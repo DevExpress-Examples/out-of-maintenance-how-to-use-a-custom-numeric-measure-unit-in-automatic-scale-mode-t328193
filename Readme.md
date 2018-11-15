@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/CustomNumericMeasureUnitsCalculatorSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomNumericMeasureUnitsCalculatorSample/MainWindow.xaml))**
+* [NumericMeasureUnitsCalculator.cs](./CS/CustomNumericMeasureUnitsCalculatorSample/NumericMeasureUnitsCalculator.cs) (VB: [NumericMeasureUnitsCalculator.vb](./VB/CustomNumericMeasureUnitsCalculatorSample/NumericMeasureUnitsCalculator.vb))
+<!-- default file list end -->
 # How to: use a custom numeric measure unit in Automatic scale mode
 
 
